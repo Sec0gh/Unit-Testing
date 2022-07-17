@@ -12,6 +12,3 @@ def is_positive(number):
         return "It is zero."
 # Here you make manual testing through testing with the argument
 print(is_positive(0))
-
-
-
